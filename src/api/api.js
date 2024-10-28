@@ -7,7 +7,7 @@ import axios from "axios";
 // const BASE_URL = "https://api.iihmrbangalore.in";
 //const BASE_URL = "https://iihmr.dev.api.kavinsoft.in";
 //const BASE_URL = "https://api.cloudnights.in";
-const BASE_URL = "https://api.iihmr-p.cloudnights.in";
+//const BASE_URL = "https://api.iihmr-p.cloudnights.in";
 const BASE_URL = "/api";
 
 const api = {
