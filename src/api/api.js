@@ -8,7 +8,7 @@ import axios from "axios";
 //const BASE_URL = "https://iihmr.dev.api.kavinsoft.in";
 //const BASE_URL = "https://api.cloudnights.in";
 //const BASE_URL = "https://api.iihmr-p.cloudnights.in";
-const BASE_URL = "https://iihmr-p.cloudnights.in/api";
+const BASE_URL = "/api";
 
 const api = {
   login: async (userid, password, additionalData) => {
